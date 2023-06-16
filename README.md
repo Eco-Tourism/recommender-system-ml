@@ -1,4 +1,6 @@
 # recommender-system-ml
+M322DSX0427 - Alvin Sengkey \
+M172DSX1748 - Hilmi Reza Muhammad 
 
 ## Description
 In this project, we build a recommender system model using TensorFlow and RecommenderNet architecture that can accept the city and category preferred by the user as the input and then output the probability that each village will be liked by the user. \
