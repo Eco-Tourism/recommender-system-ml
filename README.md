@@ -21,7 +21,7 @@ Our notebook that was used to train the recommender system is `/GreenTrails_Caps
 
 The model saved using TensorFlow format is `/model_recomm_system/model-citcat-new/` 
 
-The TensorFlow model converted using TensorFlow Lite is `/model_recomm_system/model-citcat-new.tflite`
+The TensorFlow model converted into TensorFlow Lite is `/model_recomm_system/model-citcat-new.tflite`
 
 ## Datasets
 We took our dataset from Kaggle, then filtered it so that it only shows the data for tourist village destinations
