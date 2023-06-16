@@ -17,8 +17,10 @@ We use Google Colab in the development process. To run our project, some librari
 * matplotlib  3.7.1
 ```
 
-Our notebook that was used to train the recommender system is `/GreenTrails_CapstoneProject_C23_PS259_RecommenderSystem.ipynb` \
-The model saved using TensorFlow format is `/model_recomm_system/model-citcat-new/` \
+Our notebook that was used to train the recommender system is `/GreenTrails_CapstoneProject_C23_PS259_RecommenderSystem.ipynb` 
+
+The model saved using TensorFlow format is `/model_recomm_system/model-citcat-new/` 
+
 The TensorFlow model converted using TensorFlow Lite is `/model_recomm_system/model-citcat-new.tflite`
 
 ## Datasets
